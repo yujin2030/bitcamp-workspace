@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Desktop\10_WCF\1105 wcf 서비스 응용 프로그램\1105 wcf 서비스 응용 프로그램\bin\1105 wcf 서비스 응용 프로그램.dll.config
+C:\Users\User\Desktop\Desktop\10_WCF\1105 wcf 서비스 응용 프로그램\1105 wcf 서비스 응용 프로그램\bin\1105 wcf 서비스 응용 프로그램.dll
+C:\Users\User\Desktop\Desktop\10_WCF\1105 wcf 서비스 응용 프로그램\1105 wcf 서비스 응용 프로그램\bin\1105 wcf 서비스 응용 프로그램.pdb
+C:\Users\User\Desktop\Desktop\10_WCF\1105 wcf 서비스 응용 프로그램\1105 wcf 서비스 응용 프로그램\obj\Debug\1105 wcf 서비스 응용 프로그램.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Desktop\10_WCF\1105 wcf 서비스 응용 프로그램\1105 wcf 서비스 응용 프로그램\obj\Debug\1105 wcf 서비스 응용 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Desktop\10_WCF\1105 wcf 서비스 응용 프로그램\1105 wcf 서비스 응용 프로그램\obj\Debug\1105 wcf 서비스 응용 프로그램.dll
+C:\Users\User\Desktop\Desktop\10_WCF\1105 wcf 서비스 응용 프로그램\1105 wcf 서비스 응용 프로그램\obj\Debug\1105 wcf 서비스 응용 프로그램.pdb
