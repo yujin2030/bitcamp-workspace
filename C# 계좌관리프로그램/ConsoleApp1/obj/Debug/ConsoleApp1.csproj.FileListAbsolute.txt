@@ -12,3 +12,10 @@ C:\Users\User\Desktop\Desktop\C#\0926 저녁실습ㅇㅇ\ConsoleApp1\obj\Debug\C
 C:\Users\User\Desktop\Desktop\C#\0926 저녁실습ㅇㅇ\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\Desktop\C#\0926 저녁실습ㅇㅇ\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\User\Desktop\Desktop\C#\0926 저녁실습ㅇㅇ\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\User\Documents\GitHub\오조오억개(유진\yujin\C# 계좌관리프로그램\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\User\Documents\GitHub\오조오억개(유진\yujin\C# 계좌관리프로그램\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\User\Documents\GitHub\오조오억개(유진\yujin\C# 계좌관리프로그램\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\User\Documents\GitHub\오조오억개(유진\yujin\C# 계좌관리프로그램\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\오조오억개(유진\yujin\C# 계좌관리프로그램\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\오조오억개(유진\yujin\C# 계좌관리프로그램\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\User\Documents\GitHub\오조오억개(유진\yujin\C# 계좌관리프로그램\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
