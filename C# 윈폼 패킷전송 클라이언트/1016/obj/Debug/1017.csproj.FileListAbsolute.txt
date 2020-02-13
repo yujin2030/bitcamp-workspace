@@ -1,0 +1,34 @@
+C:\Users\54281\OneDrive\바탕 화면\1016 가변데이터 클라이언트\1016\bin\Debug\1016.exe.config
+C:\Users\54281\OneDrive\바탕 화면\1016 가변데이터 클라이언트\1016\bin\Debug\1016.exe
+C:\Users\54281\OneDrive\바탕 화면\1016 가변데이터 클라이언트\1016\bin\Debug\1016.pdb
+C:\Users\54281\OneDrive\바탕 화면\1016 가변데이터 클라이언트\1016\obj\Debug\1017.csprojAssemblyReference.cache
+C:\Users\54281\OneDrive\바탕 화면\1016 가변데이터 클라이언트\1016\obj\Debug\_1016.Form1.resources
+C:\Users\54281\OneDrive\바탕 화면\1016 가변데이터 클라이언트\1016\obj\Debug\_1016.NewMemberForm.resources
+C:\Users\54281\OneDrive\바탕 화면\1016 가변데이터 클라이언트\1016\obj\Debug\_1016.ServerInfo.resources
+C:\Users\54281\OneDrive\바탕 화면\1016 가변데이터 클라이언트\1016\obj\Debug\_1016.Properties.Resources.resources
+C:\Users\54281\OneDrive\바탕 화면\1016 가변데이터 클라이언트\1016\obj\Debug\1017.csproj.GenerateResource.cache
+C:\Users\54281\OneDrive\바탕 화면\1016 가변데이터 클라이언트\1016\obj\Debug\1016.exe
+C:\Users\54281\OneDrive\바탕 화면\1016 가변데이터 클라이언트\1016\obj\Debug\1016.pdb
+C:\Users\54281\OneDrive\바탕 화면\1017 패킷전송 클라이언트\1016\bin\Debug\1016.exe.config
+C:\Users\54281\OneDrive\바탕 화면\1017 패킷전송 클라이언트\1016\bin\Debug\1016.exe
+C:\Users\54281\OneDrive\바탕 화면\1017 패킷전송 클라이언트\1016\bin\Debug\1016.pdb
+C:\Users\54281\OneDrive\바탕 화면\1017 패킷전송 클라이언트\1016\obj\Debug\1017.csprojAssemblyReference.cache
+C:\Users\54281\OneDrive\바탕 화면\1017 패킷전송 클라이언트\1016\obj\Debug\_1016.Form1.resources
+C:\Users\54281\OneDrive\바탕 화면\1017 패킷전송 클라이언트\1016\obj\Debug\_1016.NewMemberForm.resources
+C:\Users\54281\OneDrive\바탕 화면\1017 패킷전송 클라이언트\1016\obj\Debug\_1016.ServerInfo.resources
+C:\Users\54281\OneDrive\바탕 화면\1017 패킷전송 클라이언트\1016\obj\Debug\_1016.Properties.Resources.resources
+C:\Users\54281\OneDrive\바탕 화면\1017 패킷전송 클라이언트\1016\obj\Debug\1017.csproj.GenerateResource.cache
+C:\Users\54281\OneDrive\바탕 화면\1017 패킷전송 클라이언트\1016\obj\Debug\1016.exe
+C:\Users\54281\OneDrive\바탕 화면\1017 패킷전송 클라이언트\1016\obj\Debug\1016.pdb
+C:\Users\User\Desktop\Desktop\윈폼\1017 패킷전송 클라이언트\1017 패킷전송 클라이언트\1016\bin\Debug\1016.exe.config
+C:\Users\User\Desktop\Desktop\윈폼\1017 패킷전송 클라이언트\1017 패킷전송 클라이언트\1016\bin\Debug\1016.exe
+C:\Users\User\Desktop\Desktop\윈폼\1017 패킷전송 클라이언트\1017 패킷전송 클라이언트\1016\bin\Debug\1016.pdb
+C:\Users\User\Desktop\Desktop\윈폼\1017 패킷전송 클라이언트\1017 패킷전송 클라이언트\1016\obj\Debug\1017.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Desktop\윈폼\1017 패킷전송 클라이언트\1017 패킷전송 클라이언트\1016\obj\Debug\_1016.Form1.resources
+C:\Users\User\Desktop\Desktop\윈폼\1017 패킷전송 클라이언트\1017 패킷전송 클라이언트\1016\obj\Debug\_1016.NewMemberForm.resources
+C:\Users\User\Desktop\Desktop\윈폼\1017 패킷전송 클라이언트\1017 패킷전송 클라이언트\1016\obj\Debug\_1016.ServerInfo.resources
+C:\Users\User\Desktop\Desktop\윈폼\1017 패킷전송 클라이언트\1017 패킷전송 클라이언트\1016\obj\Debug\_1016.Properties.Resources.resources
+C:\Users\User\Desktop\Desktop\윈폼\1017 패킷전송 클라이언트\1017 패킷전송 클라이언트\1016\obj\Debug\1017.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Desktop\윈폼\1017 패킷전송 클라이언트\1017 패킷전송 클라이언트\1016\obj\Debug\1017.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Desktop\윈폼\1017 패킷전송 클라이언트\1017 패킷전송 클라이언트\1016\obj\Debug\1016.exe
+C:\Users\User\Desktop\Desktop\윈폼\1017 패킷전송 클라이언트\1017 패킷전송 클라이언트\1016\obj\Debug\1016.pdb

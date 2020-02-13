@@ -1,0 +1,10 @@
+C:\Users\54281\OneDrive\바탕 화면\1016\1016\bin\Debug\1016.exe.config
+C:\Users\54281\OneDrive\바탕 화면\1016\1016\bin\Debug\1016.exe
+C:\Users\54281\OneDrive\바탕 화면\1016\1016\bin\Debug\1016.pdb
+C:\Users\54281\OneDrive\바탕 화면\1016\1016\obj\Debug\1016.csprojAssemblyReference.cache
+C:\Users\54281\OneDrive\바탕 화면\1016\1016\obj\Debug\_1016.Form1.resources
+C:\Users\54281\OneDrive\바탕 화면\1016\1016\obj\Debug\_1016.Properties.Resources.resources
+C:\Users\54281\OneDrive\바탕 화면\1016\1016\obj\Debug\1016.csproj.GenerateResource.cache
+C:\Users\54281\OneDrive\바탕 화면\1016\1016\obj\Debug\1016.exe
+C:\Users\54281\OneDrive\바탕 화면\1016\1016\obj\Debug\1016.pdb
+C:\Users\54281\OneDrive\바탕 화면\1016\1016\obj\Debug\_1016.ServerInfo.resources
