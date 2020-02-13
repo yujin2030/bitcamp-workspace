@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1104 WCF 채팅 프로그램 서버", "1104 WCF 채팅 프로그램 서버\1104 WCF 채팅 프로그램 서버.csproj", "{8E6F5811-96B7-4969-BD6E-9632D06A01B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E6F5811-96B7-4969-BD6E-9632D06A01B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E6F5811-96B7-4969-BD6E-9632D06A01B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E6F5811-96B7-4969-BD6E-9632D06A01B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E6F5811-96B7-4969-BD6E-9632D06A01B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3E8FEE9-9B57-4BE4-B1ED-798B93D80510}
+	EndGlobalSection
+EndGlobal
