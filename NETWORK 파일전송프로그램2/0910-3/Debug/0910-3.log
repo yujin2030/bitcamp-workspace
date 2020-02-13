@@ -1,0 +1,27 @@
+﻿  handler.cpp
+c:\users\user\desktop\desktop\network\0910-3\0910-3\handler.cpp(38): error C2440: '초기화 중': 'const char [1]'에서 'TCHAR [260]'(으)로 변환할 수 없습니다.
+  c:\users\user\desktop\desktop\network\0910-3\0910-3\handler.cpp(38): note: 문자열 리터럴 형식이 배열 형식과 호환되지 않습니다.
+c:\users\user\desktop\desktop\network\0910-3\0910-3\handler.cpp(52): error C2440: '초기화 중': 'const char [1]'에서 'TCHAR [512]'(으)로 변환할 수 없습니다.
+  c:\users\user\desktop\desktop\network\0910-3\0910-3\handler.cpp(52): note: 문자열 리터럴 형식이 배열 형식과 호환되지 않습니다.
+c:\users\user\desktop\desktop\network\0910-3\0910-3\handler.cpp(56): error C2664: 'void sendAlldata(SOCKET,char *,int)': 인수 2을(를) 'TCHAR [512]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\user\desktop\desktop\network\0910-3\0910-3\handler.cpp(56): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+  startcpp.cpp
+  uifile.cpp
+c:\users\user\desktop\desktop\network\0910-3\0910-3\uifile.cpp(35): error C2664: 'char *strrstr(const char *,const char *)': 인수 1을(를) 'TCHAR *'에서 'const char *'(으)로 변환할 수 없습니다.
+  c:\users\user\desktop\desktop\network\0910-3\0910-3\uifile.cpp(35): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\user\desktop\desktop\network\0910-3\0910-3\uifile.cpp(36): error C2664: 'BOOL SetDlgItemTextW(HWND,int,LPCWSTR)': 인수 3을(를) 'char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\user\desktop\desktop\network\0910-3\0910-3\uifile.cpp(36): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\user\desktop\desktop\network\0910-3\0910-3\uifile.cpp(38): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+  uimsg.cpp
+c:\users\user\desktop\desktop\network\0910-3\0910-3\uimsg.cpp(140): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1849): note: 'inet_ntoa' 선언을 참조하십시오.
+  wbfile.cpp
+c:\users\user\desktop\desktop\network\0910-3\0910-3\wbfile.cpp(52): error C2664: 'void uifile_PrintIP(TCHAR *)': 인수 1을(를) 'char *'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+  c:\users\user\desktop\desktop\network\0910-3\0910-3\wbfile.cpp(52): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\user\desktop\desktop\network\0910-3\0910-3\wbfile.cpp(68): error C2664: 'HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)': 인수 1을(를) 'char [260]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\user\desktop\desktop\network\0910-3\0910-3\wbfile.cpp(69): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\user\desktop\desktop\network\0910-3\0910-3\wbfile.cpp(82): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+  wbmsg.cpp
+  코드를 생성하고 있습니다...
