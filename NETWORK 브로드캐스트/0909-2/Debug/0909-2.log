@@ -1,0 +1,8 @@
+﻿  start.cpp
+  wbcommon.cpp
+  wbrecvbr.cpp
+c:\users\user\desktop\desktop\network\0909-2 (브로드캐스트)\0909-2\wbrecvbr.cpp(63): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1849): note: 'inet_ntoa' 선언을 참조하십시오.
+  wbsenderbr.cpp
+  코드를 생성하고 있습니다...
+  0909-2.vcxproj -> C:\Users\User\Desktop\Desktop\NETWORK\0909-2 (브로드캐스트)\Debug\0909-2.exe
