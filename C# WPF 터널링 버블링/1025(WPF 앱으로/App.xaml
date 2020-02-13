@@ -1,0 +1,9 @@
+﻿<Application x:Class="_1025_WPF_앱으로.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:_1025_WPF_앱으로"
+             StartupUri="Window2.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

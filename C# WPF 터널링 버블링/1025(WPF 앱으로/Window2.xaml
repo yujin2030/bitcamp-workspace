@@ -1,0 +1,21 @@
+﻿<Window x:Class="_1025_WPF_앱으로.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_1025_WPF_앱으로"
+        mc:Ignorable="d"
+        Title="Window2" Height="450" Width="800" PreviewMouseDown="Window_PreviewMouseDown" 
+        MouseDown="Window_MouseDown">
+    <Canvas Background="LightBlue" MouseDown="Canvas_MouseDown" PreviewMouseDown="Canvas_PreviewMouseDown" >
+        <Label Canvas.Left="50" Canvas.Top="50" Padding="10" Background="Yellow" PreviewMouseDown="Label_PreviewMouseDown" MouseDown="Label_MouseDown">
+            <StackPanel PreviewMouseDown="StackPanel_PreviewMouseDown" MouseDown="StackPanel_MouseDown">
+                <Ellipse Width="100" Height="50" Fill="Red" 
+                         PreviewMouseDown="Ellipse_PreviewMouseDown" MouseDown="Ellipse_MouseDown" />
+                <Label Background="LightCoral" HorizontalAlignment="Center" Content="버튼" 
+                           PreviewMouseDown="Label_PreviewMouseDown_1" MouseDown="Label_MouseDown_1" />
+                <Ellipse Width="100" Height="50" Fill="Black" />
+            </StackPanel>
+        </Label>
+    </Canvas>
+</Window>

@@ -1,0 +1,19 @@
+C:\Users\User\Desktop\Desktop\WPF\1025(WPF 앱으로\1025(WPF 앱으로\bin\Debug\1025(WPF 앱으로.exe.config
+C:\Users\User\Desktop\Desktop\WPF\1025(WPF 앱으로\1025(WPF 앱으로\bin\Debug\1025(WPF 앱으로.exe
+C:\Users\User\Desktop\Desktop\WPF\1025(WPF 앱으로\1025(WPF 앱으로\bin\Debug\1025(WPF 앱으로.pdb
+C:\Users\User\Desktop\Desktop\WPF\1025(WPF 앱으로\1025(WPF 앱으로\obj\Debug\1025(WPF 앱으로.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Desktop\WPF\1025(WPF 앱으로\1025(WPF 앱으로\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Desktop\WPF\1025(WPF 앱으로\1025(WPF 앱으로\obj\Debug\Window1.g.cs
+C:\Users\User\Desktop\Desktop\WPF\1025(WPF 앱으로\1025(WPF 앱으로\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Desktop\WPF\1025(WPF 앱으로\1025(WPF 앱으로\obj\Debug\1025(WPF 앱으로_MarkupCompile.cache
+C:\Users\User\Desktop\Desktop\WPF\1025(WPF 앱으로\1025(WPF 앱으로\obj\Debug\1025(WPF 앱으로_MarkupCompile.lref
+C:\Users\User\Desktop\Desktop\WPF\1025(WPF 앱으로\1025(WPF 앱으로\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Desktop\WPF\1025(WPF 앱으로\1025(WPF 앱으로\obj\Debug\Window1.baml
+C:\Users\User\Desktop\Desktop\WPF\1025(WPF 앱으로\1025(WPF 앱으로\obj\Debug\1025(WPF 앱으로.g.resources
+C:\Users\User\Desktop\Desktop\WPF\1025(WPF 앱으로\1025(WPF 앱으로\obj\Debug\_1025_WPF_앱으로.Properties.Resources.resources
+C:\Users\User\Desktop\Desktop\WPF\1025(WPF 앱으로\1025(WPF 앱으로\obj\Debug\1025(WPF 앱으로.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Desktop\WPF\1025(WPF 앱으로\1025(WPF 앱으로\obj\Debug\1025(WPF 앱으로.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Desktop\WPF\1025(WPF 앱으로\1025(WPF 앱으로\obj\Debug\1025(WPF 앱으로.exe
+C:\Users\User\Desktop\Desktop\WPF\1025(WPF 앱으로\1025(WPF 앱으로\obj\Debug\1025(WPF 앱으로.pdb
+C:\Users\User\Desktop\Desktop\WPF\1025(WPF 앱으로\1025(WPF 앱으로\obj\Debug\Window2.g.cs
+C:\Users\User\Desktop\Desktop\WPF\1025(WPF 앱으로\1025(WPF 앱으로\obj\Debug\Window2.baml
