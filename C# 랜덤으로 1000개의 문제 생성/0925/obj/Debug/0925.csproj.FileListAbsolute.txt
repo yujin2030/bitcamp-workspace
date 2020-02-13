@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\0925\0925\bin\Debug\0925.exe.config
+C:\Users\user\Desktop\C#\0925\0925\bin\Debug\0925.exe
+C:\Users\user\Desktop\C#\0925\0925\bin\Debug\0925.pdb
+C:\Users\user\Desktop\C#\0925\0925\obj\Debug\0925.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#\0925\0925\obj\Debug\0925.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\0925\0925\obj\Debug\0925.exe
+C:\Users\user\Desktop\C#\0925\0925\obj\Debug\0925.pdb
+C:\Users\User\Desktop\Desktop\C#\0925\0925\bin\Debug\0925.exe.config
+C:\Users\User\Desktop\Desktop\C#\0925\0925\bin\Debug\0925.exe
+C:\Users\User\Desktop\Desktop\C#\0925\0925\bin\Debug\0925.pdb
+C:\Users\User\Desktop\Desktop\C#\0925\0925\obj\Debug\0925.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Desktop\C#\0925\0925\obj\Debug\0925.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Desktop\C#\0925\0925\obj\Debug\0925.exe
+C:\Users\User\Desktop\Desktop\C#\0925\0925\obj\Debug\0925.pdb
