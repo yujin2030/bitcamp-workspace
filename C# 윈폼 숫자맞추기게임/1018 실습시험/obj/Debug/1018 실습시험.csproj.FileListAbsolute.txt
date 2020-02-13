@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Desktop\윈폼\1018 실습시험\1018 실습시험\bin\Debug\1018 실습시험.exe.config
+C:\Users\User\Desktop\Desktop\윈폼\1018 실습시험\1018 실습시험\bin\Debug\1018 실습시험.exe
+C:\Users\User\Desktop\Desktop\윈폼\1018 실습시험\1018 실습시험\bin\Debug\1018 실습시험.pdb
+C:\Users\User\Desktop\Desktop\윈폼\1018 실습시험\1018 실습시험\obj\Debug\_1018_실습시험.Form1.resources
+C:\Users\User\Desktop\Desktop\윈폼\1018 실습시험\1018 실습시험\obj\Debug\_1018_실습시험.Properties.Resources.resources
+C:\Users\User\Desktop\Desktop\윈폼\1018 실습시험\1018 실습시험\obj\Debug\1018 실습시험.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Desktop\윈폼\1018 실습시험\1018 실습시험\obj\Debug\1018 실습시험.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Desktop\윈폼\1018 실습시험\1018 실습시험\obj\Debug\1018 실습시험.exe
+C:\Users\User\Desktop\Desktop\윈폼\1018 실습시험\1018 실습시험\obj\Debug\1018 실습시험.pdb
+C:\Users\User\Desktop\Desktop\윈폼\1018 실습시험\1018 실습시험\obj\Debug\1018 실습시험.csprojAssemblyReference.cache
