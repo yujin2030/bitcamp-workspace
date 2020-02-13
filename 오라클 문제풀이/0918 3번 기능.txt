@@ -1,0 +1,14 @@
+3번기능
+ alter table accountio modify inmoney default 0;
+ alter table accountio modify outmoney default 0;
+insert into accountio(ioid,ac_id,inmoney,curmoney,actdate) values(accountio_seq.nextval,10020,1000,1000 + (select accountbank from accountinfo where accountid = 10020),sysdate);
+2번기능
+ delete from accountio where ac_id = 10020;
+3번 기능
+ select * from accountio order by ioid asc;
+4번 기능
+select * from accountio order by ioid desc;
+5번 기능
+select * from accountio where ac_id = 10020 and actdate like '19/09/18%' order by ioid asc;
+6번 기능
+select * from accountio where ac_id = 10020 and actdate  >= ('19/09/15') and  actdate <= ('19/09/20') order by ioid asc;

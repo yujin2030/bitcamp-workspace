@@ -1,0 +1,17 @@
+사용자로부터 이름,전화번호,성별을 입력받아 저장된다.
+이때, 고객의 ID와, 고객 등록일자는 자동으로 할당된다.
+1번. 입력기능. insert into custmg values(custmg_seq.nextval, '김동균','010-1111-1111',sysdate,'M');
+
+사용자로부터 고객의 ID를 입력받아 해당 정보를 삭제한다.
+2번. 삭제기능. delete from custmg where id =1000;
+
+사용자로부터 고객의 ID와 전화번호를 입력받아 해당 고객의 전화번호를 수정한다.
+3번. 수정기능. update custmg  set phone = '010-1111-1112' where id = 1000 and phone = '010-1111-1111';
+
+4번. 검색기능1. select *  from custmg;
+5번. 검색기능2. select * from custmg where id=1000(id값 검색할것);
+6번. 검색기능3. select * from custmg  where gender='W';
+7번. 검색기능4. select * from custmg where register like '19/09/18%';
+8번. 검색기능5. select * from custmg order by name asc;
+
+

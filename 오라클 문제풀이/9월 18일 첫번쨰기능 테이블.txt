@@ -1,0 +1,51 @@
+고객정보를 관리하고자 한다.
+고객정보는 고객의 ID,이름,전화번호,고객등록일자,성별 이며
+고객의 ID는 최초 1000부터 1단위로 자동 할당된다.
+
+//고객정보 테이블 생성
+create table custmg(
+id number constraint custmg_id_pk primary key,
+name varchar2(10) constraint custmg_name_nn not null,
+phone varchar2(20) constraint custmg_phone_uk unique,
+register date constraint custmg_register_nn not null,
+ gender varchar2(2) constraint custmg_gender check(gender in('M','W'))
+);
+
+//고객정보시퀸스 생성
+create sequence custmg_seq start with 999 increment by 1 maxvalue 10000000;
+//고객정보시퀸스 넣기
+insert into custmg values(custmg_seq.nextval, '김동균','010-1111-1111',sysdate,'M');
+---------------------------------------------------------------------------------------------------------------------------
+계좌정보를 관리하고자 한다.
+계좌정보는 계좌ID, 계좌잔액,개설일,사용횟수, 고객의 ID 이며
+계좌ID는 최초 10000부터 10단위로 자동 할당된다.
+
+//계좌정보 테이블 생성
+create table accountinfo(
+  accountid number constraint accountinfo_acountid_pk primary key,
+  accountbank number constraint accountinfo_acountbank_nn not null,
+  accountdate date constraint accountinfo_acountdate_nn not null,
+  accountuse number constraint accountinfo_acountuse_nn not null,
+  customerid number constraint accountinfo_customerid_fk references custmg(id) ON DELETE CASCADE
+  );
+//계좌정보시퀸스 생성
+create sequence accountinfo_seq start with 10000 increment by 10 maxvalue 10000000;
+//계좌정보 시퀀스 넣기
+ insert into accountinfo values(accountinfo_seq.nextval, 5000,sysdate,1,1000);
+---------------------------------------------------------------------------------------------------------------------------
+계좌입출금정보를 관리하고자 한다.
+계좌입출금정보는 입출금ID, 계좌ID, 입금액, 출금액, 현재잔액, 발생일시 이며
+입출금ID는 최초 1부터 1단위로 자동 할당된다.
+
+//입출금정보 테이블 생성
+create table accountio(
+  ioid  number constraint accountio_ioid_pk primary key,
+  ac_id number constraint acoountio_ac_id_fk references accountinfo(accountid) ON DELETE CASCADE,
+  inmoney number constraint accountio_inmoney_nn not null,
+  outmoney number constraint accountio_outmoney_nn not null,
+  curmoney number constraint accountio_curmoney_nn not null,
+  actdate date constraint accountio_actdate_nn not null);
+//입출금정보시퀸스 생성
+  create sequence accountio_seq start with 1 increment by 1 maxvalue 1000000;
+//입출금정보시퀸스 넣기
+insert into accountio values(accountio_seq.nextval,10000,50000,50000,50000,sysdate);

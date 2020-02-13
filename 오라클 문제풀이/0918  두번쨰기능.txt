@@ -1,0 +1,27 @@
+1번 기능
+일단먼저default 값을 변경해준다
+alter table accountinfo modify accountbank default 0;
+alter table accountinfo modify accountuse default 0;
+그다음에
+은행잔액을 입력안받았을때 
+insert into accountinfo(accountid,accountdate,customerid)
+values(accountinfo_seq.nextval,sysdate,1000);   1000은 id값
+
+은행잔액을 입력받았을때 
+insert into accountinfo(accountid,accountbank,accountdate,accountuse,customerid)
+values(accountinfo_seq.nextval,1000,sysdate,0,1000);
+
+
+2번 기능
+ delete from accountinfo
+  where accountid=10010;  10010은 accountid
+
+3번
+update accountinfo set accountbank=accountbank+10 , accountuse=accountuse+1
+ where accountid=10020; 10020은 계좌아이디값
+4번
+select * from accountinfo order by accountbank desc, accountuse desc;
+5번
+select * from accountinfo where accountid = 10020;
+6번
+ select accountbank  from accountinfo where accountid= 10020;
