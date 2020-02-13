@@ -1,0 +1,66 @@
+﻿  packet.cpp
+  source.cpp
+c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(40): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(43): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'TCHAR *'입니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(43): note: 서식 문자열에서 '%ls'을(를) 사용하는 것이 좋습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(43): note: 서식 문자열에서 '%lls'을(를) 사용하는 것이 좋습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(43): note: 서식 문자열에서 '%Ls'을(를) 사용하는 것이 좋습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(43): note: 서식 문자열에서 '%ws'을(를) 사용하는 것이 좋습니다.
+c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(43): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'TCHAR *'입니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(43): note: 서식 문자열에서 '%ls'을(를) 사용하는 것이 좋습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(43): note: 서식 문자열에서 '%lls'을(를) 사용하는 것이 좋습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(43): note: 서식 문자열에서 '%Ls'을(를) 사용하는 것이 좋습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(43): note: 서식 문자열에서 '%ws'을(를) 사용하는 것이 좋습니다.
+c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(43): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'TCHAR *'입니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(43): note: 서식 문자열에서 '%ls'을(를) 사용하는 것이 좋습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(43): note: 서식 문자열에서 '%lls'을(를) 사용하는 것이 좋습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(43): note: 서식 문자열에서 '%Ls'을(를) 사용하는 것이 좋습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(43): note: 서식 문자열에서 '%ws'을(를) 사용하는 것이 좋습니다.
+c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(43): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'TCHAR *'입니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(43): note: 서식 문자열에서 '%ls'을(를) 사용하는 것이 좋습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(43): note: 서식 문자열에서 '%lls'을(를) 사용하는 것이 좋습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(43): note: 서식 문자열에서 '%Ls'을(를) 사용하는 것이 좋습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(43): note: 서식 문자열에서 '%ws'을(를) 사용하는 것이 좋습니다.
+c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(60): error C2664: 'int strcmp(const char *,const char *)': 인수 1을(를) 'TCHAR [20]'에서 'const char *'(으)로 변환할 수 없습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(60): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(62): error C2664: 'int strcmp(const char *,const char *)': 인수 1을(를) 'TCHAR [20]'에서 'const char *'(으)로 변환할 수 없습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(62): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(90): error C2664: 'int strcmp(const char *,const char *)': 인수 1을(를) 'TCHAR [20]'에서 'const char *'(으)로 변환할 수 없습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(90): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(119): error C2664: 'int strcmp(const char *,const char *)': 인수 1을(를) 'TCHAR [20]'에서 'const char *'(으)로 변환할 수 없습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(119): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(122): error C2660: 'strcpy_s': 함수는 2개의 매개 변수를 사용하지 않습니다.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(28): note: 'strcpy_s' 선언을 참조하십시오.
+c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(123): error C2660: 'strcpy_s': 함수는 2개의 매개 변수를 사용하지 않습니다.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(28): note: 'strcpy_s' 선언을 참조하십시오.
+c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(147): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(150): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'TCHAR *'입니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(150): note: 서식 문자열에서 '%ls'을(를) 사용하는 것이 좋습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(150): note: 서식 문자열에서 '%lls'을(를) 사용하는 것이 좋습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(150): note: 서식 문자열에서 '%Ls'을(를) 사용하는 것이 좋습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(150): note: 서식 문자열에서 '%ws'을(를) 사용하는 것이 좋습니다.
+c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(150): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'TCHAR *'입니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(150): note: 서식 문자열에서 '%ls'을(를) 사용하는 것이 좋습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(150): note: 서식 문자열에서 '%lls'을(를) 사용하는 것이 좋습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(150): note: 서식 문자열에서 '%Ls'을(를) 사용하는 것이 좋습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(150): note: 서식 문자열에서 '%ws'을(를) 사용하는 것이 좋습니다.
+c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(161): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(164): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'TCHAR *'입니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(164): note: 서식 문자열에서 '%ls'을(를) 사용하는 것이 좋습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(164): note: 서식 문자열에서 '%lls'을(를) 사용하는 것이 좋습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(164): note: 서식 문자열에서 '%Ls'을(를) 사용하는 것이 좋습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(164): note: 서식 문자열에서 '%ws'을(를) 사용하는 것이 좋습니다.
+c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(164): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'TCHAR *'입니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(164): note: 서식 문자열에서 '%ls'을(를) 사용하는 것이 좋습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(164): note: 서식 문자열에서 '%lls'을(를) 사용하는 것이 좋습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(164): note: 서식 문자열에서 '%Ls'을(를) 사용하는 것이 좋습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(164): note: 서식 문자열에서 '%ws'을(를) 사용하는 것이 좋습니다.
+c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(164): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'TCHAR *'입니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(164): note: 서식 문자열에서 '%ls'을(를) 사용하는 것이 좋습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(164): note: 서식 문자열에서 '%lls'을(를) 사용하는 것이 좋습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(164): note: 서식 문자열에서 '%Ls'을(를) 사용하는 것이 좋습니다.
+  c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\source.cpp(164): note: 서식 문자열에서 '%ws'을(를) 사용하는 것이 좋습니다.
+  wbserver.cpp
+c:\users\user\desktop\network\0905 콘서트 서버\0905 콘서트 서버\wbserver.cpp(140): error C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1849): note: 'inet_ntoa' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
