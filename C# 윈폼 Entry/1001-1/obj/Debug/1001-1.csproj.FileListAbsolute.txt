@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\윈폼\1001-1\1001-1\bin\Debug\1001-1.exe.config
+C:\Users\user\Desktop\윈폼\1001-1\1001-1\bin\Debug\1001-1.exe
+C:\Users\user\Desktop\윈폼\1001-1\1001-1\bin\Debug\1001-1.pdb
+C:\Users\user\Desktop\윈폼\1001-1\1001-1\obj\Debug\1001-1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\윈폼\1001-1\1001-1\obj\Debug\1001-1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\윈폼\1001-1\1001-1\obj\Debug\1001-1.exe
+C:\Users\user\Desktop\윈폼\1001-1\1001-1\obj\Debug\1001-1.pdb
+C:\Users\User\Desktop\Desktop\윈폼\1001-1 (파싱)\1001-1\bin\Debug\1001-1.exe.config
+C:\Users\User\Desktop\Desktop\윈폼\1001-1 (파싱)\1001-1\bin\Debug\1001-1.exe
+C:\Users\User\Desktop\Desktop\윈폼\1001-1 (파싱)\1001-1\bin\Debug\1001-1.pdb
+C:\Users\User\Desktop\Desktop\윈폼\1001-1 (파싱)\1001-1\obj\Debug\1001-1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Desktop\윈폼\1001-1 (파싱)\1001-1\obj\Debug\1001-1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Desktop\윈폼\1001-1 (파싱)\1001-1\obj\Debug\1001-1.exe
+C:\Users\User\Desktop\Desktop\윈폼\1001-1 (파싱)\1001-1\obj\Debug\1001-1.pdb
