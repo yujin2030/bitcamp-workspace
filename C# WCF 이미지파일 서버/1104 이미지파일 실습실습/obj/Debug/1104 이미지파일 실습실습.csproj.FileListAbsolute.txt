@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Desktop\10_WCF\1104 이미지파일 실습실습\1104 이미지파일 실습실습\bin\Debug\1104 이미지파일 실습실습.exe.config
+C:\Users\User\Desktop\Desktop\10_WCF\1104 이미지파일 실습실습\1104 이미지파일 실습실습\bin\Debug\1104 이미지파일 실습실습.exe
+C:\Users\User\Desktop\Desktop\10_WCF\1104 이미지파일 실습실습\1104 이미지파일 실습실습\bin\Debug\1104 이미지파일 실습실습.pdb
+C:\Users\User\Desktop\Desktop\10_WCF\1104 이미지파일 실습실습\1104 이미지파일 실습실습\obj\Debug\1104 이미지파일 실습실습.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Desktop\10_WCF\1104 이미지파일 실습실습\1104 이미지파일 실습실습\obj\Debug\1104 이미지파일 실습실습.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Desktop\10_WCF\1104 이미지파일 실습실습\1104 이미지파일 실습실습\obj\Debug\1104 이미지파일 실습실습.exe
+C:\Users\User\Desktop\Desktop\10_WCF\1104 이미지파일 실습실습\1104 이미지파일 실습실습\obj\Debug\1104 이미지파일 실습실습.pdb
