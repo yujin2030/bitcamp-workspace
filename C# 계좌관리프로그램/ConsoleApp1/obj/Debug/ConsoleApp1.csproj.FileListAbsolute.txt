@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\User\Desktop\Desktop\C#\0926 저녁실습ㅇㅇ\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\User\Desktop\Desktop\C#\0926 저녁실습ㅇㅇ\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\User\Desktop\Desktop\C#\0926 저녁실습ㅇㅇ\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\User\Desktop\Desktop\C#\0926 저녁실습ㅇㅇ\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Desktop\C#\0926 저녁실습ㅇㅇ\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Desktop\C#\0926 저녁실습ㅇㅇ\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\User\Desktop\Desktop\C#\0926 저녁실습ㅇㅇ\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
