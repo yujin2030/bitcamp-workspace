@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Desktop\윈폼\1014\1014\bin\Debug\1014.exe.config
+C:\Users\User\Desktop\Desktop\윈폼\1014\1014\bin\Debug\1014.exe
+C:\Users\User\Desktop\Desktop\윈폼\1014\1014\bin\Debug\1014.pdb
+C:\Users\User\Desktop\Desktop\윈폼\1014\1014\obj\Debug\1014.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Desktop\윈폼\1014\1014\obj\Debug\_1014.Form1.resources
+C:\Users\User\Desktop\Desktop\윈폼\1014\1014\obj\Debug\_1014.Properties.Resources.resources
+C:\Users\User\Desktop\Desktop\윈폼\1014\1014\obj\Debug\1014.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Desktop\윈폼\1014\1014\obj\Debug\1014.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Desktop\윈폼\1014\1014\obj\Debug\1014.exe
+C:\Users\User\Desktop\Desktop\윈폼\1014\1014\obj\Debug\1014.pdb

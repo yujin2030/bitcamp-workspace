@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Account>
+    <Accid>1</Accid>
+    <Accnumber>10000</Accnumber>
+    <CName>최유진</CName>
+    <Balance>50000</Balance>
+    <Date>2019-12-12T15:47:26.1674179+09:00</Date>
+  </Account>
+</DocumentElement>
