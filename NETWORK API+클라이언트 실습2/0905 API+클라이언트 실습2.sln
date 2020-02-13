@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0905 API+클라이언트 실습2", "0905 API+클라이언트 실습2\0905 API+클라이언트 실습2.vcxproj", "{7AAE1EE3-CC48-48F9-8FAB-808BCD8B1CF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AAE1EE3-CC48-48F9-8FAB-808BCD8B1CF6}.Debug|x64.ActiveCfg = Debug|x64
+		{7AAE1EE3-CC48-48F9-8FAB-808BCD8B1CF6}.Debug|x64.Build.0 = Debug|x64
+		{7AAE1EE3-CC48-48F9-8FAB-808BCD8B1CF6}.Debug|x86.ActiveCfg = Debug|Win32
+		{7AAE1EE3-CC48-48F9-8FAB-808BCD8B1CF6}.Debug|x86.Build.0 = Debug|Win32
+		{7AAE1EE3-CC48-48F9-8FAB-808BCD8B1CF6}.Release|x64.ActiveCfg = Release|x64
+		{7AAE1EE3-CC48-48F9-8FAB-808BCD8B1CF6}.Release|x64.Build.0 = Release|x64
+		{7AAE1EE3-CC48-48F9-8FAB-808BCD8B1CF6}.Release|x86.ActiveCfg = Release|Win32
+		{7AAE1EE3-CC48-48F9-8FAB-808BCD8B1CF6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F73A12EA-B659-4B3F-9167-53E19D51863D}
+	EndGlobalSection
+EndGlobal
