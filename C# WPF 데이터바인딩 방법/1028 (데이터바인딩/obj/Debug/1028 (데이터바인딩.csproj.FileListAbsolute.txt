@@ -1,0 +1,18 @@
+C:\Users\User\Desktop\Desktop\WPF\1028 (데이터바인딩\1028 (데이터바인딩\bin\Debug\1028 (데이터바인딩.exe.config
+C:\Users\User\Desktop\Desktop\WPF\1028 (데이터바인딩\1028 (데이터바인딩\bin\Debug\1028 (데이터바인딩.exe
+C:\Users\User\Desktop\Desktop\WPF\1028 (데이터바인딩\1028 (데이터바인딩\bin\Debug\1028 (데이터바인딩.pdb
+C:\Users\User\Desktop\Desktop\WPF\1028 (데이터바인딩\1028 (데이터바인딩\obj\Debug\1028 (데이터바인딩.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Desktop\WPF\1028 (데이터바인딩\1028 (데이터바인딩\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Desktop\WPF\1028 (데이터바인딩\1028 (데이터바인딩\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Desktop\WPF\1028 (데이터바인딩\1028 (데이터바인딩\obj\Debug\1028 (데이터바인딩_MarkupCompile.cache
+C:\Users\User\Desktop\Desktop\WPF\1028 (데이터바인딩\1028 (데이터바인딩\obj\Debug\1028 (데이터바인딩_MarkupCompile.lref
+C:\Users\User\Desktop\Desktop\WPF\1028 (데이터바인딩\1028 (데이터바인딩\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Desktop\WPF\1028 (데이터바인딩\1028 (데이터바인딩\obj\Debug\1028 (데이터바인딩.g.resources
+C:\Users\User\Desktop\Desktop\WPF\1028 (데이터바인딩\1028 (데이터바인딩\obj\Debug\_1028__데이터바인딩.Properties.Resources.resources
+C:\Users\User\Desktop\Desktop\WPF\1028 (데이터바인딩\1028 (데이터바인딩\obj\Debug\1028 (데이터바인딩.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Desktop\WPF\1028 (데이터바인딩\1028 (데이터바인딩\obj\Debug\1028 (데이터바인딩.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Desktop\WPF\1028 (데이터바인딩\1028 (데이터바인딩\obj\Debug\1028 (데이터바인딩.exe
+C:\Users\User\Desktop\Desktop\WPF\1028 (데이터바인딩\1028 (데이터바인딩\obj\Debug\1028 (데이터바인딩.pdb
+C:\Users\User\Desktop\Desktop\WPF\1028 (데이터바인딩\1028 (데이터바인딩\obj\Debug\Window1.g.cs
+C:\Users\User\Desktop\Desktop\WPF\1028 (데이터바인딩\1028 (데이터바인딩\obj\Debug\Window1.baml
+C:\Users\User\Desktop\Desktop\WPF\1028 (데이터바인딩\1028 (데이터바인딩\obj\Debug\GeneratedInternalTypeHelper.g.cs

@@ -1,0 +1,162 @@
+﻿<Window x:Class="_1028__데이터바인딩.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:_1028__데이터바인딩"
+        Title="Window1" Height="450" Width="800">
+    <Window.Resources>
+        <local:People x:Key="people"/>
+        <local:Person x:Key="person" ShortNumber="1" Name="홍길동" Phone="010-1111-1234" Age="20"/>
+        <local:MaleToFemaleConverter x:Key="maleConverter"/>
+        <local:BoolToStringConverter x:Key="boolConverter"/>
+    </Window.Resources>
+    <StackPanel DataContext="{StaticResource people}">
+        <!--입력텍스트박스 코드-->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0" Margin="5" Orientation="Horizontal">
+                <Label>단축번호(_N):</Label>
+                <TextBox Name="shortNumber" Width="30">
+                    <TextBox.Text>
+                        <Binding Path="ShortNumber" NotifyOnValidationError="True">
+                            <Binding.ValidationRules>
+                                <ExceptionValidationRule/>
+                                <!--local:ShortNumberValidationRule Max="100" Min="0"/-->
+                            </Binding.ValidationRules>
+                        </Binding>
+                    </TextBox.Text>
+                </TextBox>
+            </StackPanel>
+            <StackPanel Grid.Column="1" Margin="5" Orientation="Horizontal">
+                <Label>이름(_N):</Label>
+                <TextBox Name="name" Foreground="Red" Text="{Binding Path=Name}" Width="120" />
+            </StackPanel>
+            <StackPanel Grid.Column="2" Margin="5" Orientation="Horizontal">
+                <Label>전화(_P):</Label>
+                <TextBox Name="phone" Foreground="Yellow" Text="{Binding Path=Phone}" Width="120" />
+            </StackPanel>
+            <StackPanel Grid.Column="3"  Margin="5" Orientation="Horizontal">
+                <Label>나이(_A):</Label>
+                <TextBox Name="age" Foreground="Green" Text="{Binding Path=Age}" Width="120" />
+            </StackPanel>
+            <StackPanel Name="Radiostack" Grid.Column="4" Margin="5" Orientation="Horizontal" Background="blue">
+                <RadioButton IsChecked="{Binding Path=Male}"  Content="남" Margin="5,5,20,5"/>
+                <RadioButton IsChecked="{Binding Path=Male, Converter={StaticResource maleConverter}}" Content="여" Margin="5"/>
+            </StackPanel>
+        </Grid>
+        <!--출력 패널 코드-->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Border Grid.Column="0" Margin="2" BorderBrush="Black" BorderThickness="2">
+                <Label Height="25" Name="nameLabel" Content="{Binding Path=Text, ElementName=name}" 
+                       Background="{Binding Path=Foreground, ElementName=name}"/>
+            </Border>
+            <Border Grid.Column="1" Margin="2" BorderBrush="Black" BorderThickness="2">
+                <Label Height="25" Name="phoneLabel" Content="{Binding Path=Text, ElementName=phone}"
+                       Background="{Binding Path=Foreground, ElementName=phone}"/>
+            </Border>
+            <Border Grid.Column="2" Margin="2" BorderBrush="Black" BorderThickness="2">
+                <Label Height="25" Name="ageLabel" Content="{Binding Path=Text, ElementName=age}"
+                       Background="{Binding Path=Foreground, ElementName=age}"/>
+            </Border>
+                <Border Grid.Column="3" Margin="2" BorderBrush="Black" BorderThickness="2">
+                    <Label Height="25" Content="{Binding Path=Male , Converter={StaticResource boolConverter}}" 
+                           Background="{Binding Path=Background,ElementName=radiostack}"/>
+                </Border>
+        </Grid>
+        <!-- 이전, 다음 버튼-->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+                <Button Name="prev" Grid.Column="0" Margin="3" Height="30" Content="이전" Click="Prev_Click"/>
+                <Button Name="next" Grid.Column="1" Margin="3" Height="30" Content="다음" Click="Next_Click"/>
+        </Grid>
+        <!--Clear, 컬렉션 원소 삭제 버튼-->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button Name="eraseButton" Grid.Column="0" Margin="3" Height="30" Content="Clear" Click="EraseBUtton_Click"/>
+            <Button Name="removeButton" Grid.Column="1" Margin="3" Height="30" Content="컬렉션 원소 삭제" Click="RemoveButton_Click"/>
+        </Grid>
+        <!--저장 영역-->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0" Margin="5" Orientation="Horizontal">
+                <Label>단축번(_S)</Label>
+                <TextBox Name="shortNumber1" Foreground="Green" Text="{Binding Path=ShortNumber}"  Width="120"/>
+            </StackPanel>
+            <StackPanel Grid.Column="1" Margin="5" Orientation="Horizontal">
+                <Label>이름(_N)</Label>
+                <TextBox Name="name1" Foreground="Green" Text="{Binding Path=Name}"  Width="120" />
+            </StackPanel>
+            <StackPanel Grid.Column="2" Margin="5" Orientation="Horizontal">
+                <Label>전화(_P)</Label>
+                <TextBox Name="phone1" Foreground="LightSalmon" Text="{Binding Path=Phone}" Width="120" />
+            </StackPanel>
+            <StackPanel Grid.Column="3" Margin="5" Orientation="Horizontal">
+                <Label>나이(_A)</Label>
+                <TextBox Name="age1" Foreground="Crimson" Text="{Binding Path=Age}" Width="50" />
+            </StackPanel>
+            <StackPanel Name="radiostack1" Grid.Column="4" Margin="5" Orientation="Horizontal" Background="LightGreen" >
+                <RadioButton IsChecked="{Binding Path=Male}" Content="남" Margin="5,5,20,5"/>
+                <RadioButton IsChecked="{Binding Path=Male, Converter={StaticResource maleConverter}}" Content="여" Margin="5"/>
+            </StackPanel>
+            <Button Name="insertButton" Grid.Column="5"  Margin="5" Height="30" Content="저장" Click="InsertButton_Click"/>
+        </Grid>
+        <!--검색 영역-->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0" Margin="5" Orientation="Horizontal">
+                <Label> 검색할 이름 : (_S)</Label>
+                <TextBox Name="selectName" Width="120"/>
+            </StackPanel>
+            <Button Name="select" Grid.Column="1"  Margin="5" Height="30" Width="100" Content="검색" Click="Select_Click"/>
+        </Grid>
+        <!--ListBox 바인딩코드-->
+        <ListBox Name="listbox" ItemsSource="{Binding}" IsSynchronizedWithCurrentItem="True">
+        <!--리스트박스 데이터템플릿-->
+        <ListBox.ItemTemplate>
+            <DataTemplate>
+                <TextBlock>
+                        단축번호: <TextBlock Text="{Binding Path=ShortNumber}"/>
+                        이름: <TextBlock Text="{Binding Path=Name}"/>
+                        전화번호: <TextBlock Text="{Binding Path=Phone}"/>
+                        성별: 
+                        <StackPanel Grid.Column="3" Orientation="Horizontal" Background="LightGreen">
+                            <RadioButton IsChecked="{Binding Path=Male}" Content="남"/>
+                        </StackPanel>
+                        <StackPanel Grid.Column="3" Orientation="Horizontal" Background="LightGreen">
+                            <RadioButton IsChecked="{Binding Path=Male,Converter={StaticResource maleConverter}}" Content="여"/>
+                        </StackPanel>
+                    </TextBlock>
+            </DataTemplate>
+        </ListBox.ItemTemplate>
+        </ListBox>
+        <!--ComboBox 영역-->
+        <ComboBox ItemsSource="{Binding}" DisplayMemberPath="Name" IsSynchronizedWithCurrentItem="True"/>
+    </StackPanel>
+</Window>
