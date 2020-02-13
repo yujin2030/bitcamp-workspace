@@ -1,0 +1,9 @@
+﻿<Application x:Class="_1105_채팅_프로그램_1대일_클라이언트.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:_1105_채팅_프로그램_1대일_클라이언트"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

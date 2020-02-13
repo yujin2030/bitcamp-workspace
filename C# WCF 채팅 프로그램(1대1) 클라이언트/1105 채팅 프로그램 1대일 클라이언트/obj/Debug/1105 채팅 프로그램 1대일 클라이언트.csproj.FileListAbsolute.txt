@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Desktop\10_WCF\1105 채팅 프로그램 1대일 클라이언트\1105 채팅 프로그램 1대일 클라이언트\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Desktop\10_WCF\1105 채팅 프로그램 1대일 클라이언트\1105 채팅 프로그램 1대일 클라이언트\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Desktop\10_WCF\1105 채팅 프로그램 1대일 클라이언트\1105 채팅 프로그램 1대일 클라이언트\obj\Debug\1105 채팅 프로그램 1대일 클라이언트_MarkupCompile.cache
+C:\Users\User\Desktop\Desktop\10_WCF\1105 채팅 프로그램 1대일 클라이언트\1105 채팅 프로그램 1대일 클라이언트\obj\Debug\1105 채팅 프로그램 1대일 클라이언트_MarkupCompile.lref
+C:\Users\User\Desktop\Desktop\10_WCF\1105 채팅 프로그램 1대일 클라이언트\1105 채팅 프로그램 1대일 클라이언트\bin\Debug\1105 채팅 프로그램 1대일 클라이언트.exe.config
+C:\Users\User\Desktop\Desktop\10_WCF\1105 채팅 프로그램 1대일 클라이언트\1105 채팅 프로그램 1대일 클라이언트\bin\Debug\1105 채팅 프로그램 1대일 클라이언트.exe
+C:\Users\User\Desktop\Desktop\10_WCF\1105 채팅 프로그램 1대일 클라이언트\1105 채팅 프로그램 1대일 클라이언트\bin\Debug\1105 채팅 프로그램 1대일 클라이언트.pdb
+C:\Users\User\Desktop\Desktop\10_WCF\1105 채팅 프로그램 1대일 클라이언트\1105 채팅 프로그램 1대일 클라이언트\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Desktop\10_WCF\1105 채팅 프로그램 1대일 클라이언트\1105 채팅 프로그램 1대일 클라이언트\obj\Debug\1105 채팅 프로그램 1대일 클라이언트.g.resources
+C:\Users\User\Desktop\Desktop\10_WCF\1105 채팅 프로그램 1대일 클라이언트\1105 채팅 프로그램 1대일 클라이언트\obj\Debug\_1105_채팅_프로그램_1대일_클라이언트.Properties.Resources.resources
+C:\Users\User\Desktop\Desktop\10_WCF\1105 채팅 프로그램 1대일 클라이언트\1105 채팅 프로그램 1대일 클라이언트\obj\Debug\1105 채팅 프로그램 1대일 클라이언트.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Desktop\10_WCF\1105 채팅 프로그램 1대일 클라이언트\1105 채팅 프로그램 1대일 클라이언트\obj\Debug\1105 채팅 프로그램 1대일 클라이언트.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Desktop\10_WCF\1105 채팅 프로그램 1대일 클라이언트\1105 채팅 프로그램 1대일 클라이언트\obj\Debug\1105 채팅 프로그램 1대일 클라이언트.exe
+C:\Users\User\Desktop\Desktop\10_WCF\1105 채팅 프로그램 1대일 클라이언트\1105 채팅 프로그램 1대일 클라이언트\obj\Debug\1105 채팅 프로그램 1대일 클라이언트.pdb
+C:\Users\User\Desktop\Desktop\10_WCF\1105 채팅 프로그램 1대일 클라이언트\1105 채팅 프로그램 1대일 클라이언트\obj\Debug\1105 채팅 프로그램 1대일 클라이언트.csprojAssemblyReference.cache
