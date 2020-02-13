@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:ser="http://schemas.microsoft.com/2003/10/Serialization/" xmlns:tns="http://schemas.datacontract.org/2004/07/_1104_%EC%98%A4%ED%9B%84_%EC%8B%A4%EC%8A%B5" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/_1104_%EC%98%A4%ED%9B%84_%EC%8B%A4%EC%8A%B5" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://192.168.0.47:8888/wcf/example/helloworldservice?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+  <xs:complexType name="ArrayOfCal">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Cal" nillable="true" type="tns:Cal" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCal" nillable="true" type="tns:ArrayOfCal" />
+  <xs:complexType name="Cal">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Num1" type="xs:int" />
+      <xs:element minOccurs="0" name="Num2" type="xs:int" />
+      <xs:element minOccurs="0" name="Oper" type="ser:char" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Cal" nillable="true" type="tns:Cal" />
+</xs:schema>
