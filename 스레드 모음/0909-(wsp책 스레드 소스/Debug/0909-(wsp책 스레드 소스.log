@@ -1,0 +1,4 @@
+﻿  thread 117 생산자 소비자.cpp
+c:\users\user\desktop\network\0909-3 (wsp책 스레드 소스)\0909-(wsp책 스레드 소스\thread 117 생산자 소비자.cpp(51): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+c:\users\user\desktop\network\0909-3 (wsp책 스레드 소스)\0909-(wsp책 스레드 소스\thread 117 생산자 소비자.cpp(55): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  0909-(wsp책 스레드 소스.vcxproj -> C:\Users\user\Desktop\NETWORK\0909-3 (wsp책 스레드 소스)\Debug\0909-(wsp책 스레드 소스.exe
