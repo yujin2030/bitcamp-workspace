@@ -1,0 +1,8 @@
+﻿  handler.cpp
+c:\users\user\desktop\desktop\network\0910-2\0910-2\handler.cpp(24): error C3861: 'OnPrintClear': 식별자를 찾을 수 없습니다.
+  uimessage.cpp
+c:\users\user\desktop\desktop\network\0910-2\0910-2\uimessage.cpp(6): error C2660: 'GetDlgItemTextA': 함수는 0개의 매개 변수를 사용하지 않습니다.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(5050): note: 'GetDlgItemTextA' 선언을 참조하십시오.
+  wbmessage.cpp
+c:\users\user\desktop\desktop\network\0910-2\0910-2\wbmessage.cpp(99): error C3861: 'recvmessage': 식별자를 찾을 수 없습니다.
+  코드를 생성하고 있습니다...
